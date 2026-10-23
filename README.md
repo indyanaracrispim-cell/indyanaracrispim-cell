@@ -21,13 +21,15 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ### 💡 Diferenciais & Áreas de Interesse
 - 🏥 **Experiência no Setor de Saúde:** +6 anos atuando com processos hospitalares e domínio no sistema Tasy.
 - 💻 **Interesse em HealthTechs:** Foco em aplicar lógica de programação para criar soluções na área da saúde e tecnologia hospitalar.
 - 🗄️ **Banco de Dados & SQL:** Em constante aprendizado de estruturação de dados e consultas SQL.
+- 🎓 **Pós-Graduação em IA aplicada a saúde** 
+- 🎓 **MBA em Gestão de processos de negócios e técnologia**
 
 ---
 
