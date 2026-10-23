@@ -27,6 +27,22 @@ Enfermeira (+6 anos de experiência) em transição para a área de Tecnologia v
 
 ### 🖥️ FERRAMENTAS DE DESENVOLVIMENTO
 
+---
+
+### 💡 Diferenciais & Áreas de Interesse
+- 🏥 **Experiência no Setor de Saúde:** +6 anos atuando com processos hospitalares e domínio no sistema Tasy.
+- 💻 **Interesse em HealthTechs:** Foco em aplicar lógica de programação para criar soluções na área da saúde e tecnologia hospitalar.
+- 🗄️ **Banco de Dados & SQL:** Em constante aprendizado de estruturação de dados e consultas SQL.
+
+---
+
+### 📊 Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=indyanara-crispim-cell&show_icons=true&theme=radium&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=indyanara-crispim-cell&layout=compact&theme=radium"/>
+</p>
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
