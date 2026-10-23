@@ -1,9 +1,5 @@
-# 💻 Indyanara Crispim | Desenvolvedora em Formação 👩‍💻
+# Indyanara Crispim | Desenvolvedora em Formação 👩‍💻
 
-Enfermeira (+6 anos de experiência) em transição para a área de Tecnologia via SENAI-SCTEC. Usuária avançada Tasy, focada em desenvolvimento, inovação e tecnologia aplicada à saúde.
-
-- 🎓 **Formação:** Enfermagem | Desenvolvedora Front-End / Software (SENAI-SCTEC)
-- 🎯 **Objetivo:** Desenvolvimento de Software / Tech Health
 - 📍 **Localização:** Santa Catarina, Brasil
 
 ---
