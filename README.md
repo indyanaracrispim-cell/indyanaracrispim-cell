@@ -1,6 +1,6 @@
-# Indyanara Crispim | Desenvolvedora em Formação 👩‍💻
+# Enf'Dev| Desenvolvedora em Formação 👩‍💻
 
-- 📍 **Localização:** Santa Catarina, Brasil
+- 📍 **Localização:** Blumenau - Santa Catarina, Brasil
 
 ---
 
