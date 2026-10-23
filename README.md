@@ -11,8 +11,8 @@ Enfermeira (+6 anos de experiência) em transição para a área de Tecnologia v
 ### 📚 Cursos e Aprendizados
 - [x] Lógica de Programação e Fundamentos
 - [x] HTML5 & CSS3
-- [/] JavaScript & TypeScript (Em andamento)
-- [/] SQL e Banco de Dados (Em andamento)
+- [ ] JavaScript & TypeScript (Em andamento)
+- [ ] SQL e Banco de Dados (Em andamento)
 
 ---
 
